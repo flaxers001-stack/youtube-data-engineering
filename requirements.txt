@@ -1,0 +1,6 @@
+pandas==2.2.2
+psycopg2-binary==2.9.12
+sqlalchemy==2.0.49
+numpy==2.0.2
+python-dateutil==2.9.0
+pytz==2025.2
